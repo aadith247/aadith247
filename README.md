@@ -42,8 +42,10 @@ I like computers, backend, systems programming, and Machine Learning mostly.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aadith247&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Featured Projects
+- 🧠 [QuickLearn](https://github.com/aadith247/quicklearn) — AI-powered personalized learning platform
+- 💼 [InternMitra](https://github.com/aadith247/internmitra) — ML-driven internship matching platform  
+- 📝 [LiveDocs](https://github.com/aadith247/livedocs) — Real-time collaborative editor with CRDT
 <!--
 **aadith247/aadith247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
