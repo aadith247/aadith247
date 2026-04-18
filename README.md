@@ -18,8 +18,7 @@ I like computers, backend, systems programming, and Machine Learning mostly.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aadith247&color=blue)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aadith247&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
